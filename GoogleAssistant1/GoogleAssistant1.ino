@@ -102,4 +102,3 @@ void MQTT_connect() {
   }
   Serial.println("Connected to server");
 }
-

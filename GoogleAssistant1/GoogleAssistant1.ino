@@ -6,8 +6,8 @@
 #define Relay1            D1
 #define Relay2            D2
 
-#define WLAN_SSID       "xxxxxxxxxx"             // Your WiFi username
-#define WLAN_PASS       "xxxxxxxxxxxxxxxxx"        // Your password
+#define WLAN_SSID       "xxxxxxxxxx"    // Your WiFi username
+#define WLAN_PASS       "xxxxxxxxxxxxxxxxx"   // Your password
 
 /************************* Adafruit.io Setup *********************************/
 
